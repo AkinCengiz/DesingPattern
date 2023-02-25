@@ -1,0 +1,8 @@
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\bin\Debug\FactoryMethods.exe.config
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\bin\Debug\FactoryMethods.exe
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\bin\Debug\FactoryMethods.pdb
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\obj\Debug\FactoryMethods.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\obj\Debug\FactoryMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\obj\Debug\FactoryMethods.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\obj\Debug\FactoryMethods.exe
+C:\Users\akinc\source\repos\DesingPatterns\FactoryMethods\obj\Debug\FactoryMethods.pdb

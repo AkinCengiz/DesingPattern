@@ -1,0 +1,8 @@
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\akinc\source\repos\DesingPatterns\Singleton\obj\Debug\Singleton.pdb
