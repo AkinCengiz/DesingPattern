@@ -1,0 +1,8 @@
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\akinc\source\repos\DesingPatterns\Prototype\obj\Debug\Prototype.pdb

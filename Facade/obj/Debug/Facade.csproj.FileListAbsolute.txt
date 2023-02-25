@@ -1,0 +1,8 @@
+C:\Users\akinc\source\repos\DesingPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\akinc\source\repos\DesingPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\akinc\source\repos\DesingPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\akinc\source\repos\DesingPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\DesingPatterns\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\akinc\source\repos\DesingPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\DesingPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\akinc\source\repos\DesingPatterns\Facade\obj\Debug\Facade.pdb
